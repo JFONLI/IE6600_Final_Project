@@ -15,6 +15,8 @@ library(lubridate)
 count_death=read_csv('./dataset/count_death.csv')
 condition_covi=read_csv('./dataset/conditon_covi.csv')
 covi_data=read_csv('./dataset/covi_data.csv')
+
+###TESTING
 ```
 
 # Step 2: Access data
